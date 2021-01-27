@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: maroon;
+    color:mediumspringgreen;
+}
+
+label {
+    font-size: 1rem;
+    padding-right: 5px;
+}
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+    width: 70px;
+}
+
+.attack, .decay, .sustain, .release {
+    width: 45px;
+    padding: 2px, 5px;
+}
+footer {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+.offset{
+    width: 40px;
+}
